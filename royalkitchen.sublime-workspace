@@ -1,0 +1,775 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"museo",
+				"museosans-700-webfont"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"contact",
+				"contact_info"
+			],
+			[
+				"secondary",
+				"secondary-page"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"d",
+				"d6b400"
+			],
+			[
+				"comment",
+				"comment-box"
+			],
+			[
+				"f",
+				"f6a800"
+			],
+			[
+				"head",
+				"headline_green_bg"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"aa",
+				"aaux_next_regular"
+			],
+			[
+				"au",
+				"size-auto"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"pro",
+				"product_features"
+			],
+			[
+				"lang",
+				"lang_sel_click"
+			],
+			[
+				"get_post_",
+				"get_post_format"
+			],
+			[
+				"has_p",
+				"has_post_thumbnail"
+			],
+			[
+				"portfolio",
+				"portfolio-item"
+			],
+			[
+				"port",
+				"portfolio-item"
+			],
+			[
+				"get_templa",
+				"get_template_part"
+			],
+			[
+				"customi",
+				"customize_register"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"ticke",
+				"tickets-tab"
+			],
+			[
+				"bloginfo",
+				"bloginfo"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"secon",
+				"secondary-footer"
+			],
+			[
+				"sec",
+				"secondary-footer"
+			],
+			[
+				"section_",
+				"section_convocatoria"
+			],
+			[
+				"convocatoria",
+				"convocatoria_buttons"
+			],
+			[
+				"pl",
+				"pluginContainerWidth"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"windo",
+				"windowWidth"
+			],
+			[
+				"content_",
+				"content_landingpage"
+			],
+			[
+				"convo",
+				"convocatoria_content"
+			],
+			[
+				"template",
+				"template_directory"
+			],
+			[
+				"td-post",
+				"td-post-sidebar"
+			],
+			[
+				"vouch",
+				"voucher-btn"
+			],
+			[
+				"templa",
+				"template_directory"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"tem",
+				"template_directory"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"rese",
+				"section_research"
+			],
+			[
+				"green",
+				"green_block"
+			],
+			[
+				"ingredient",
+				"ingredient-item"
+			],
+			[
+				"ups",
+				"usps_logo"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"form",
+				"formsidebar"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"sect",
+				"section_comparing"
+			],
+			[
+				"ga",
+				"gallery-item"
+			],
+			[
+				"product_",
+				"product_list"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"wp_",
+				"WP_Query"
+			],
+			[
+				"aux",
+				"aaux_nextbold"
+			],
+			[
+				"get_temp",
+				"get_template_part"
+			],
+			[
+				"wp_res",
+				"wp_reset_query"
+			],
+			[
+				"page_",
+				"page_boxed"
+			],
+			[
+				"three",
+				"three_bottle"
+			],
+			[
+				"eee",
+				"eeeeee"
+			],
+			[
+				"overlay",
+				"overlay_bar"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 313.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"mini",
+				"Minify Javascript to file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"project",
+				"Project: Save As"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 444.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mundodesensaciones/Documents/www/royalkitchen.com/wp-content/themes/royaldesign/includes/homepage/fourth-stage.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/front-page-website-2015.php",
+		"/Users/mundodesensaciones/Documents/www/wp410/wp-content/themes/Trimarchi2015-2/external/frontpage/frontpage-auspiciantes.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/sidebar.php",
+		"/Users/mundodesensaciones/Documents/www/wp410/wp-content/themes/Trimarchi2015-2/page-postTmdg.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/page-landing.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/overridestyle.css",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/custom.css",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/overwrite.css",
+		"/Users/mundodesensaciones/Documents/www/wp424/wp-content/themes/meminz/css/overwrite.css",
+		"/Users/mundodesensaciones/Documents/www/wp424/wp-content/themes/meminz/shortcodes.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/content-tickets-es.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/content-tickets-en.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/homepage.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/index.html",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/style 3.css",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/frontpage-tickets.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/bst.css",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/styles.css",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/about-nerdogs-english.txt",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/bst.js",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/frontpage-contact.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/front-page.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/footer.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/scripts.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/custom_css.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/style 2.css",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/style.css",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/header.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/wp-config.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/frontpage-auspiciantes.php",
+		"/Users/mundodesensaciones/Documents/www/wp410/wp-content/themes/trimarchidg2015/js/jquery.fullPage.min.js",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/.htaccess",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/page-categories.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/category.php",
+		"/Users/mundodesensaciones/Documents/www/wp422/wp-content/themes/Dax-Bst/includes/scripts-NEW.php",
+		"/Users/mundodesensaciones/Documents/www/wp422/wp-content/themes/Dax-Bst/.htaccess",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/content-single.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/single-product.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/head.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/enqueues.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/setup.php",
+		"/Users/mundodesensaciones/Desktop/FileZilla-28-ago-2015.xml",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/content-category.php",
+		"/Users/mundodesensaciones/Documents/www/wp422/wp-content/themes/Dax-Bst/includes/frontpage/frontpage-products-category.php",
+		"/Users/mundodesensaciones/Documents/www/wp422/wp-content/themes/Dax-Bst/includes/loops/content-category.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/frontpage-products-category.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/content-gallery.php",
+		"/Users/mundodesensaciones/Documents/www/wp422/wp-content/themes/Dax-Bst/includes/loops/content-categoryBK.php",
+		"/Users/mundodesensaciones/Documents/www/wp424/wp-content/themes/twentythirteen/header.php",
+		"/Users/mundodesensaciones/Documents/www/wp424/wp-content/themes/twentyfifteen/header.php",
+		"/Users/mundodesensaciones/Documents/www/wp424/wp-content/themes/meminz/header.php",
+		"/Users/mundodesensaciones/Documents/www/wp422/wp-content/themes/Dax-Bst/includes/frontpage/frontpage-products-categoryBK.php",
+		"/Users/mundodesensaciones/Documents/www/wp422/wp-content/themes/Dax-Bst/page-categories.php",
+		"/Users/mundodesensaciones/Documents/www/wp424/wp-content/themes/meminz/css/custom.css",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/frontpage-about.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/single-portfolio.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/portfolio.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/header.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/project-features.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/frontpage-services.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/frontpage/frontpage-nav.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/functions/function-theme-options.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/css/bst.css",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/page.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/loops/content-page.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/single-portfolio.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/frontpage/frontpage-hero.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/functions/navbar.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/portfolio.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/front-page.php",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/frontpage-hero.php",
+		"/Users/mundodesensaciones/Documents/www/enlacesjudios/js/skins/tango/skin.css",
+		"/Users/mundodesensaciones/Documents/www/enlacesjudios/index.html",
+		"/private/var/folders/fy/z219jrt56793s3gqbbnppsg80000gn/T/fz3temp-1/.htaccess 2",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/functions/setup.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/functions.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/index.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/loops/content-single.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/single.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/category.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/miamiculinarytours/home.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/product-features.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/portfolio-brief-logo.php",
+		"/Users/mundodesensaciones/Documents/www/test-responsive/index.html",
+		"/Users/mundodesensaciones/Documents/www/captureSite/index.html",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/culinarystop/sidebar-footer.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/culinarystop/functions.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/miamiculinarytours/single.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/miamiculinarytours/sidebar.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/miamiculinarytours/style.css",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/miamiculinarytours/page.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/miamiculinarytours/header.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/css/bootstrap.css",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/js/bst.js",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/functions/enqueues.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/scripts.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/js/npm.js",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/frontpage/frontpage-services.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/ta-pluton/js/app.js",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/ta-pluton/js/customizer.js",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/ta-pluton/js/jquery.inview.js",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/garnicia4x/index.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/garnicia4x/footer.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/garnicia4x/header.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/garnicia4x/style.css",
+		"/Users/mundodesensaciones/Documents/www/wp381/wp-content/themes/garcinia4x/index.php",
+		"/Users/mundodesensaciones/Documents/www/wp380/wp-content/themes/garniciacambodia/index.php",
+		"/Users/mundodesensaciones/Documents/www/wp361/wp-content/themes/garniciacambodia/index.php",
+		"/Users/mundodesensaciones/Documents/www/wp423/wp-content/themes/garniciacambodia/index.php",
+		"/Users/mundodesensaciones/Documents/www/wp361/wp-config.php",
+		"/Users/mundodesensaciones/Documents/www/GarniciaCambodia/site/index.php",
+		"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/twentyfourteen/single.php",
+		"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/twentyfourteen/content.php",
+		"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/bonamour_theme/single.php",
+		"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/Vegreen/part.post.php",
+		"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/Vegreen/single.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/page-portfolio.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/footer.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/RESOURCES/flag-icon-css-master/css/flag-icon.css",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/page-blog.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/category-news.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/includes/loops/content.php",
+		"/Users/mundodesensaciones/Documents/www/powmov/css/styles.css",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/js/jquery.portfolio.js",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/page-about.php",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/RESOURCES/flag-icon-css-master/index.html",
+		"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/Nerdogs-Bst/css/flag-icon.min.css"
+	],
+	"find":
+	{
+		"height": 81.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/mundodesensaciones/Documents/www/wp424/wp-content/themes/meminz",
+			"",
+			"/Users/mundodesensaciones/Documents/www/wp424/wp-content/themes/meminz",
+			"",
+			"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/ta-pluton/",
+			"/Users/mundodesensaciones/Documents/www/wp4222/wp-content/themes/ta-pluton/js",
+			"/Users/mundodesensaciones/Documents/www/wp381/wp-content/themes/baratoenbrasil",
+			"/Users/mundodesensaciones/Documents/www/wp422/wp-content/themes/Dax-Bst",
+			"/Users/mundodesensaciones/Documents/www/wp410/wp-content/themes/baskerville",
+			"/Users/mundodesensaciones/Documents/www/wp421/wp-content/themes/presso_test/templates",
+			"/Users/mundodesensaciones/Documents/www/wp421/wp-content/themes/presso_test/framework",
+			"/Users/mundodesensaciones/Documents/www/wp421/wp-content/themes/presso_test",
+			"/Users/mundodesensaciones/Documents/www/wp410/wp-content/themes/trimarchidg2015",
+			"/Users/mundodesensaciones/Documents/www/wp421/wp-content/themes/presso_test",
+			"/Users/mundodesensaciones/Documents/www/wp410/wp-content/themes/presso_test",
+			"/Users/mundodesensaciones/Documents/www/Bonamour/banners/RichMedia Banners/Voucher/voucher-dark-circle-01",
+			"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/Newspaper",
+			"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/naturesdynamics",
+			"/Users/mundodesensaciones/Documents/www/BonamourLandingPage/github/getbonamour/global",
+			"",
+			"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/wj-autodealer/",
+			"/Users/mundodesensaciones/Documents/www/wp400/wp-content/themes/wj-autodealer/framework/application/views",
+			"/Users/mundodesensaciones/Documents/www/wp391/wp-content/themes/HotelesEnMiami",
+			"/Users/mundodesensaciones/Documents/www/wp391/wp-content/themes/ViajaraNuevaYork",
+			"/Users/mundodesensaciones/Documents/www/wp391/wp-content/themes/Hoteles",
+			"/Users/mundodesensaciones/Documents/www/wp390/wp-content/themes/TrimarchiDG",
+			"/Users/mundodesensaciones/Documents/www/wp381/wp-content/themes/blanco",
+			"/Volumes/My Passport/mis archivos/www/wp342/wp-content/themes/unsemilleroriver,/Users/mundodesensaciones/Documents/www/wp380/wp-content/themes/garniciacambodia/cart66/views",
+			"/Volumes/My Passport/mis archivos/www/wp342/wp-content/themes/unsemilleroriver"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text-center",
+			"center-text",
+			"section-heading",
+			"push-col",
+			"prefix",
+			"pull",
+			"push",
+			"travel-",
+			";\n",
+			".related",
+			"travel-deals",
+			"theme_options",
+			"facebook",
+			"social",
+			"theme_options",
+			"social",
+			"<ul>\n	<li><a class=\"transition\" href=\"#\" target=\"_blank\">facebook</a></li>\n	<li><a class=\"transition\" href=\"#\" target=\"_blank\">twitter</a></li>\n	<li><a class=\"transition\" href=\"#\" target=\"_blank\">Instagram</a></li>\n	<li><a class=\"transition\" href=\"#\" target=\"_blank\">pinterest</a></li>\n</ul>",
+			"learn more",
+			"Learn more",
+			".navbar",
+			"navbar-brand",
+			"#f55e25",
+			"btn",
+			"imac-device",
+			"home-contain",
+			"<p class=\"btn-inline\">\n	<a href=\"\" data-pretty=\"prettyPhoto\" class=\"btn btn-bordered btn-lg zoom\"></a>\n	<a href=\"\" class=\"btn btn-primary btn-lg\"></a>\n	</p>",
+			"landing page",
+			"home-slider",
+			"wpb_wrapper",
+			"bandcamp",
+			"#welcome-box .article h1",
+			".movie_thumb li div.item",
+			".movie_thumb li",
+			"movie_thumb",
+			".container_24",
+			".wrapper",
+			"movie_thumb li .gen",
+			"movie_thumb .gen",
+			"movie_thumb",
+			".movie_thumb li .episode",
+			".movie_thumb li div.item",
+			"616",
+			"header#hero ",
+			"#frontpage-container",
+			"850px",
+			"section#about p",
+			"header#hero .header-content .",
+			"header#hero .header-content",
+			"hero h1",
+			"732",
+			"h1#logo img",
+			"hero",
+			"header",
+			"theme_options",
+			"navbar-brand",
+			"table",
+			"map",
+			"icon",
+			"map",
+			"#product_subcat li a",
+			"article.portfolio-item h2",
+			"hr",
+			"pusher",
+			"cynar",
+			"invitan",
+			"sponsors",
+			"pusher",
+			"footer",
+			"small-s",
+			"newsletter_footer",
+			"footer",
+			"space",
+			"newsl",
+			"trimarchi",
+			"#wrapper",
+			"cat-item",
+			".portfolio-item",
+			"wrapper",
+			"newslett",
+			"pusher",
+			"footer",
+			"#footer aside.widget_links .blogroll li",
+			"#wrapper",
+			"newsletter_footer",
+			".navbar>.container .navbar-brand",
+			".navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand",
+			"contact",
+			"#navigation .previous-post a:after",
+			"#navigation .previous-post a:after, #navigation .next-post a:after",
+			"btn-primary",
+			"btn",
+			".single #content article",
+			".single #content article, .single #content section",
+			".btn",
+			"flag",
+			"section#hero_paragraph",
+			".flag-wrapper",
+			"map",
+			"icon",
+			"icon_map",
+			".btn {",
+			"btn",
+			"btn-primary:hover",
+			"btn:hover",
+			".btn-primary",
+			"header#hero .header-content .header-content-inner p",
+			"section#hero_paragraph",
+			"h1#logo img",
+			"top:48%",
+			"nav",
+			"header#hero .header-content",
+			"#hero",
+			"hero p",
+			"#sidebar",
+			"p {",
+			"#content article",
+			"hero:after",
+			".page-template-front-page .navbar-default",
+			"hero",
+			"#footer aside.widget_links .blogroll li",
+			"footer aside",
+			"newsletter_footer",
+			"footer",
+			".navbar-default.affix",
+			".jcarousel-skin-tango .jcarousel-item",
+			"hero_portfolio",
+			"breadcrumb",
+			".btn"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#006DBA",
+			"../img/flags/",
+			"#DEC334",
+			"myriad set pro",
+			"",
+			"grid_8",
+			".grid_8",
+			"slide_image",
+			"product-line.php",
+			"/product-categories/",
+			"#ff0b23",
+			"#d55e5e",
+			"#workshop",
+			"#afuera",
+			"#proyecto",
+			"#anillo",
+			"#bnt",
+			"#intro",
+			"odd",
+			"even",
+			"odd",
+			"6dcff6",
+			"9a5b25",
+			"'",
+			":after,",
+			"",
+			"jQuery(",
+			"green_btn",
+			"#section_hero",
+			".tabs-content",
+			"#section_bottles",
+			"category-description",
+			"https://origin.ih.constantcontact.com/fs191/1113583063345/img/",
+			"",
+			"http://www.nerdogs.com/clientz/naturesdynamics/mailing03/images/",
+			"ftp://ftp.thinkelephant.com//www.nerdogs.com/clientz/naturesdynamics/mailing03/images/",
+			".top_banner_section",
+			"images/",
+			"http://www.nerdogs.com/clientz/naturesdynamics/mailing02/images/",
+			"-orange",
+			"#E9722F",
+			"200x200",
+			"-green",
+			"719430",
+			"-blue",
+			"1ca1ed",
+			"\"200\"",
+			"a33d52",
+			"-purple",
+			"-green",
+			"/mailing01b/",
+			"#1793A2",
+			"#F8B0AE",
+			"<div class=\"overlay_play\"></div>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/My Passport/mis archivos/www/HardcoreHD/website_v2/trailer.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/My Passport/mis archivos/www/HardcoreHD/website_v2/HardcoreHD tour2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true
+}
